@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+body {
+font: normal 100% Helvetica, Arial, sans-serif;
+}
+
+#title {
+    font-family: verdana;
+    font-size: 8vw;
+}
+#author{
+    font-family: verdana;
+    font-size: 5vw;
+}
+#date{
+    font-family: verdana;
+    font-size: 4vw;
+}
+
+#verse {
+	font-family: verdana;
+	font-size: 4.8vw;
+}
+
+#section {
+	font-family: verdana;
+	font-size: 5.2vw;
+	color: #66F;
+}
+
+#download {
+	font-family: verdana;
+	font-size: 4.8vw;
+	color: #F66;
+}
+
+#footnote {
+	font-family: verdana;
+	font-size: 4.5vw;
+	color: #F66;
+}
+
+.subtitle {
+	font-family: verdana;
+	font-size: 5.2vw;
+	color: #F66;
+}
